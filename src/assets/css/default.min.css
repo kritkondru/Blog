@@ -1,0 +1,69 @@
+header {
+  position: relative;
+  display: block;
+  width: 100%;
+  background: black;
+  color: white;
+  height: 90px;
+  font-style: italic; }
+
+footer {
+  position: relative;
+  display: block;
+  width: 100%;
+  background: black;
+  height: 30px;
+  color: white; }
+
+nav {
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  transform: translateY(-50%); }
+
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  transform: translateY(-50%); }
+
+.column1 {
+  float: left;
+  background-color: #00b359;
+  width: 80%;
+  padding: 20px;
+  height: 650px; }
+
+.column2 {
+  float: left;
+  background-color: #b3cccc;
+  width: 19%;
+  height: 650px;
+  margin: 0px; }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 20px; }
+
+a {
+  color: white; }
+
+.blogs {
+  font-style: italic;
+  padding: 10px;
+  font-size: 20px; }
+
+.mainn {
+  width: 200px;
+  height: 30px; }
