@@ -10,4 +10,4 @@ We can navigate to homepage using the Home link in the navigation sector.
 We can navigate to About me using the about me link in the navigation sector.
 My Blog is about Food, Cars and Games .
 Where I discuss about the car I feel is the best ,the different cuisine's I've had and the dish I loved the most and about the games I've played.
-The About me page consists of information of where i grew ,where I live and what I'm doing now.
+The About me page consists of information of where I grew ,where I live and what I'm doing now.
